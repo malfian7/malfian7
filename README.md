@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Alfian</h1>
 <h3 align="center">A Senior UI/UX Designer from Indonesia 🚀</h3>
-<img align="right" alt="Designer" width="400" src="https://cdn.dribbble.com/users/612938/screenshots/3245944/character-animation.gif">
+<img align="right" alt="Designer" width="400" src="https://i.pinimg.com/originals/4d/c5/9d/4dc59d9d0ee8fbebe10118aec5b16d50.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malfian7&label=Profile%20views&color=0e75b6&style=flat" alt="malfian7" /> </p>
 
