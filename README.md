@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Product Design & React FrontEnd**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/alfian.ma7](https://linktr.ee/alfian.ma7)
+- 👨‍💻 All of my projects are available at [https://shorturl.at/7hiaf](https://shorturl.at/7hiaf)
 
 - 💬 Ask me about **anything or design.😋**
 
